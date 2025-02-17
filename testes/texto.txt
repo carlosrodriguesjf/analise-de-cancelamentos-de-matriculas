@@ -1,0 +1,31 @@
+Sugestões de Análises para sua Tabela de Alunos que Cancelaram a Matrícula
+Com base nas variáveis que você apresentou, é possível realizar diversas análises para entender os motivos pelos quais os alunos estão abandonando a universidade e, assim, propor ações para melhorar a retenção.
+
+Análises Descritivas:
+
+Perfil do aluno que cancela:
+Qual o perfil demográfico dos alunos que cancelam a matrícula (sexo, idade, campus)? - OK
+Qual o curso e área de concentração mais frequentes entre os alunos que cancelam? - OK
+Qual o tipo de ingresso (vestibular, transferência) mais comum entre os alunos que cancelam? - OK
+Qual a distribuição dos alunos que cancelam por grupo de cotas?- OK
+
+Motivos de cancelamento:
+Quais os principais motivos de cancelamento?- OK
+Existe alguma relação entre o motivo de cancelamento e o curso ou área de concentração?- OK
+Há alguma diferença nos motivos de cancelamento entre os diferentes anos de ingresso?
+
+Análise temporal:
+Analisar se houve alguma mudança nas taxas de cancelamento ao longo dos anos.- OK
+
+Análise por campus:
+Comparar as taxas de cancelamento entre os diferentes campi.- OK
+Identificar se existem diferenças nos motivos de cancelamento entre os campi.- OK
+Visualizações:
+
+Ferramentas:
+
+Perguntas para guiar a análise:
+Quais são os principais fatores que levam os alunos a cancelarem a matrícula?
+Existe alguma relação entre o perfil socioeconômico dos alunos e a decisão de cancelar?
+Há alguma diferença nos motivos de cancelamento entre os diferentes cursos?
+Quais ações a universidade pode tomar para reduzir a taxa de evasão?
