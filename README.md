@@ -71,7 +71,7 @@ públicas;
 │── 📂 dados                 # Conjunto de dados brutos e processados
 │── 📂 testes                # Jupyter Notebooks utilizado para testes de programação
 │── 📂 scripts               # Scripts utilizados para automação, pré-processamento de dados e arquivo da análise
-│── 📂 relatórios            # Relatórios e visualizações geradas
+│── 📂 relatórios            # Pasta contendo um relatório com todos os códigos e visualizações
 │── README.md                # Documentação do projeto
 │── requirements.txt         # Dependências do projeto
 
